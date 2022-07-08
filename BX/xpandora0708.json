@@ -212,7 +212,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://xxdarkz.github.io/darkz/BX/tv/xtstv.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly94eGRhcmt6LmdpdGh1Yi5pby9kYXJrei9CWC90di94dHN0di50eHQ="
           ]
         }
       ]
