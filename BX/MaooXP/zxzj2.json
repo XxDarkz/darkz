@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.zxzj.vip",
+  "homeUrl": "https://zxzj.vip",
   "dcVipFlag": "true",
     "pCfgJs": "https://www.zxzjtv.com/static/js/playerconfig.js",
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
