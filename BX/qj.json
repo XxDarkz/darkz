@@ -1,10 +1,12 @@
 
 {
 // spider
-"spider":"https://xxdarkz.github.io/darkz/BX/qj0731.jar",
+"spider":"https://xxdarkz.github.io/darkz/BX/qj0801.jar",
+
+//壁纸
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
 // 直播
-
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94eGRhcmt6LmdpdGh1Yi5pby9kYXJrei9CWC90di94cWp0di50eHQ="]}]}],
 
 "sites":[
