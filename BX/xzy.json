@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 /*-----------------------JAR包接口-----------------------*/
-"spider":"https://xxdarkz.github.io/darkz/BX/xzy.jar",
+"spider":"https://xxdarkz.github.io/darkz/BX/xzy.jar;md5; 77cf13ec48858a21066ff601da098d65",
 
 /*-----------------------直播-----------------------*/
 "lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94eGRhcmt6LmdpdGh1Yi5pby9kYXJrei9CWC90di94cWp0di50eHQ="]}]}],
