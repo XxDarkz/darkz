@@ -1,105 +1,68 @@
-{
-	"ua": "",
-    // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://www.domp4.cc",
-    // 分类节点
-	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '99')) and not(contains(/text(), '专题')) and not(contains(/text(), '索引'))]",
-    // 分类名
-	"cateName": "/text()",
-    // 分类id
-	"cateId": "/@href",
-    // 分类id二次处理正则
-	"cateIdR": "/list/(\\d+)-1.html",
-    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {},
-    // 首页推荐视频的节点
-	"homeVodNode": "//div[@id='list_all']/ul//li/a",
-    // 首页推荐视频的名称
-	"homeVodName": "/img/@alt",
-    // 二次处理正则
-    "homeVodNameR": "",
-    // 首页推荐视频的id
-	"homeVodId": "/@href",
-    // 二次处理正则
-	"homeVodIdR": "(\\S+).html",
-    // 首页推荐视频的图片
-	"homeVodImg": "/img/@data-original",
-    // 二次处理正则
-    "homeVodImgR": "",
-    // 首页推荐视频的简介
-	"homeVodMark": "",
-    // 二次处理正则
-    "homeVodMarkR": "",
-    // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "https://www.domp4.cc/list/{cateId}-{catePg}.html",
-    // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@id='list_all']/ul//li/a",
-	"cateVodName": "/img/@alt",
-	"cateVodNameR": "",
-	"cateVodId": "/@href",
-	"cateVodIdR": "(\\S+).html",
-	"cateVodImg": "/img/@data-original",
-	"cateVodMark": "",
-    // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "https://www.domp4.cc{vid}.html",
-    // 详情节点
-	"dtNode": "//div[@class='article-header']",
-    // 视频名
-	"dtName": "//p/em[contains(text(),'名称')]/parent::*/span/text()",
-	"dtNameR": "",
-    // 视频图片
-	"dtImg": "//div[@class='pic']/img/@src",
-	"dtImgR": "",
-    // 视频分类
-	"dtCate": "//div[contains(text(), '类型')]/span/a/text()",
-	"dtCateR": "",
-    // 视频年份
-	"dtYear": "//em[contains(text(),'年份')]/parent::*/span/text()",
-	"dtYearR": "",
-    // 视频地区
-	"dtArea": "//em[contains(text(),'地区')]/parent::*/span/text()",
-	"dtAreaR": "",
-    // 视频状态
-	"dtMark": "//em[contains(text(),'更新')]/parent::*/span/text()",
-	"dtMarkR": "",
-    // 主演
-	"dtActor": "//em[contains(text(),'主演')]/parent::*/span//span/a/text()",
-	"dtActorR": "",
-    // 导演
-	"dtDirector": "//em[contains(text(),'导演')]/parent::*/span//span/a/text()",
-	"dtDirectorR": "",
-    // 视频简介
-	"dtDesc": "/parent::*//div[@class='article-related info']/p/text()",
-	"dtDescR": "",
-    // 播放源节点
-	"dtFromNode": "//div[contains(@class,'download_url')]",
-    // 播放源名称
-	"dtFromName": "/h2/text()",
-    // 二次处理正则
-	"dtFromNameR": "",
-    // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'down-list')]",
-    // 播放地址节点
-	"dtUrlSubNode": "/li//a",
-    // 播放地址
-	"dtUrlId": "@href",
-    // 二次处理正则
-	"dtUrlIdR": "",
-    // 剧集名称
-	"dtUrlName": "/text()",
-    // 二次处理正则
-	"dtUrlNameR": "",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "{playUrl}",
-    // 解析webview的user-agent
-	"playUa": "",
-    // 搜索地址
-	"searchUrl": "https://www.domp4.cc/search/{wd}.html",
-    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//div[@id='list_all']/ul//li/a",
-	"scVodName": "/img/@alt",
-	"scVodId": "/@href",
-	"scVodIdR": "(\\S+).html",
-	"scVodImg": "/img/@data-original",
-	"scVodMark": ""
-}
+{"name": "80S磁力",
+"url": "https://www.80s.tw/",
+//"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"User": "空",
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"fenlei": "电视剧$/ju/list/----0--p/#电影$/movie/list/-----p/",
+"houzhui": "",
+"qishiye": "1",
+"shifouercijiequ": "1",
+"jiequqian": "class=\"me1 clearfix",
+"jiequhou": "</ul>",
+"jiequshuzuqian": "<li> <a href=\"/",
+"jiequshuzuhou": "</li>",
+"tupianqian": "src=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "http://",
+"biaotiqian": "alt=\"",
+"biaotihou": "\"",
+"lianjieqian": "/",
+"lianjiehou": "\"",
+"ljqianzhui": "https://s.80s.tw/movie/",
+"fubiaotiqian": "class=\"tip\">",
+"fubiaotihou": "</",
+"sousuohouzhui": "/voddetail/",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"sstupianqianzhui": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"ssljqianzhui": "空",
+"zhuangtaiqian": "class=\"otherbox\">",
+"zhuangtaihou": "</p>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</a>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "&nbsp; ",
+"juqingqian": "剧情介绍：</span>",
+"juqinghou": "<a",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "class=\"dllist1",
+"bfjiequhou": "</ul>",
+"bfjiequshuzuqian": "分辨率",
+"bfjiequshuzuhou": "</tr>",
+"bfyshifouercijiequ": "1",
+"bfyjiequqian": "style",
+"bfyjiequhou": "</td>",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"mag",
+"bflianjiehou": "\"",
+"bfqianzhui": "mag"}
