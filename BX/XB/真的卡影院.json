@@ -1,21 +1,20 @@
-// 🥒套娃模板 class=module-item-pic.json
 {
-  "author": "20220617",
-  "name": "F7好看剧",
-  "url": "https://www.haokanju1.cc", //填网站链接
+  "author":"20220606",
+  "name": "真的卡影院",
+  "url": "https://www.zhendeka.com", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
 
-  "fenlei": "4K剧集$/vodshow/23--------#4K电影$/vodshow/24--------#亲子动漫$/vodshow/4---亲子-----#益智动漫$/vodshow/4---益智-----#电影$/vodshow/1--------#连续剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#纪录片$/vodshow/20--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#大陆动漫$/vodshow/4-大陆-------#内地动漫$/vodshow/4-内地-------#日本动漫$/vodshow/4-日本-------#韩国动漫$/vodshow/4-韩国-------#美国动漫$/vodshow/4-美国-------#英国动漫$/vodshow/4-英国-------#台湾动漫$/vodshow/4-台湾-------#动画片$/vodshow/1---动画-----#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------", //网站列表的分类
-  "houzhui": "---.html", //网站翻页链接的后缀
+  "fenlei": "电影$/vodshow/1--------#连续剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#国产动漫$/vodshow/4-国产-------#日本动漫$/vodshow/4-日本-------#欧美动漫$/vodshow/4-欧美-------#动画电影$/vodshow/1---动画-----#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------", //网站列表的分类
+  "houzhui": "---/", //网站翻页链接的后缀
 
   "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "空", //不需要二次截取就填空
   "jiequhou": "空", //不需要二次截取就填空
-  "jiequshuzuqian": "class=\"module-item-pic", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "module-item\">", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-src=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuqian": "class=\"p1 m1", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "alt=\"", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
@@ -23,8 +22,8 @@
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
 
   //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "item-text\">",
-  "fubiaotihou": "</div>",
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
 
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
@@ -50,25 +49,25 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"sort-item", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
+  "bfjiequshuzuqian": "<div id=\"vlink_", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
-  "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">", //状态前关键词
-  "zhuangtaihou": "</div>", //状态后关键词
+  "zhuangtaiqian": "<span>", //状态前关键词
+  "zhuangtaihou": "</span></dt>", //状态后关键词
   "daoyanqian": "导演：</span>", //导演前关键词
-  "daoyanhou": "</div>", //导演态后关键词
+  "daoyanhou": "</dd>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
-  "zhuyanhou": "</div>", //主演后关键词
-  "juqingqian": "vod_content\"><span>", //剧情前关键词
-  "juqinghou": "</span>", //剧情后关键词
+  "zhuyanhou": "</dt>", //主演后关键词
+  "juqingqian": "介绍：</span>", //剧情前关键词
+  "juqinghou": "</div>", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
   "bfyjiequhou": "空", //不需要二次截取就填空
   "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
-  "bfbiaotiqian": "span>", //播放剧集标题前关键词
-  "bfbiaotihou": "</span", //状播放剧集标题后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
   "bflianjieqian": "href=\"", //播放剧集链接前关键词
   "bflianjiehou": "\""
 } //播放剧集链接后关键词
