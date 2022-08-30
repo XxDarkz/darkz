@@ -1,87 +1,84 @@
-{
-    "author":"Tangsan99999",
-    "ua": "",
-    "homeUrl": "https://www.lranc.com",
-    "dcVipFlag": "true",
-    "dcPlayUrl": "true",
-    "cateNode": "//ul[contains(@class,'stui-header__menu')]/li[contains(@class, 'dropdown-hover')]//div/ul/li/a[contains(@href, 'ystv') and not(contains(@href,'label'))]",
-    "cateName": "/text()",
-    "cateId": "/@href",
-    "cateIdR": "/ystv/(\\S+).html",
-    "cateManual": {
-        "电影": "dydq",
-        "电视剧": "dsjdq",
-        "综艺": "zydq",
-        "动漫": "dmdq",
-        "纪录片": "jlpdq"
-    },
-    "homeVodNode": "//div[contains(@class, 'padding-0')]//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]",
-    "homeVodName": "/@title",
-    "homeVodId": "/@href",
-    "homeVodIdR": "/zxgk/(\\w+).html",
-    "homeVodImg": "/@data-original",
-    "homeVodImgR": "\\S+(http\\S+)",
-    "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-    "cateUrl": "https://www.lranc.com/phb/{cateId}/by/{by}/page/{catePg}/year/{year}.html",
-    "cateVodNode": "//ul[contains(@class,'stui-vodlist')]//li//a[contains(@class,'stui-vodlist__thumb')]",
-    "cateVodName": "/@title",
-    "cateVodId": "/@href",
-    "cateVodIdR": "/zxgk/(\\w+).html",
-    "cateVodImg": "/@data-original",
-    "cateVodImgR": "\\S+(http\\S+)",
-    "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-    "dtUrl": "https://www.lranc.com/zxgk/{vid}.html",
-    "dtNode": "//body",
-    "dtName": "//a[contains(@class,'stui-vodlist__thumb')]/@title",
-    "dtNameR": "",
-    "dtImg": "//a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
-    "dtImgR": "\\S+(http\\S+)",
-    "dtCate": "//span[contains(@class,'text-muted') and contains(text(), '类型')]/following-sibling::*/text()",
-    "dtCateR": "",
-    "dtArea": "//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()",
-    "dtAreaR": "",
-    "dtYear": "//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()",
-    "dtYearR": "",
-    "dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
-    "dtActorR": "",
-    "dtDirector": "//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
-    "dtDirectorR": "",
-    "dtMark": "//span[contains(@class,'text-muted') and contains(text(), '更新')]/following-sibling::*/text()",
-    "dtMarkR": "",
-    "dtDesc": "//p[@class='col-pd']/text()",
-    "dtDescR": "",
-    "dtFromNode": "//div[@class='stui-pannel-box b playlist mb']//h3(@class,'title')",
-    "dtFromName": "/text()",
-    "dtFromNameR": "",
-    "dtUrlNode": "//div[@class='stui-pannel_bd col-pd clearfix']/ul[contains(@class, 'stui-content__playlist column8 clearfix')]",
-    "dtUrlSubNode": "/li/a",
-    "dtUrlId": "@href",
-    "dtUrlIdR": "/zxbf/(\\S+).html",
-    "dtUrlName": "/text()",
-    "dtUrlNameR": "",
-    "playUrl": "https://www.lranc.com/zxbf/{playUrl}.html",
-    "playUa": "",
-    "searchUrl": "https://www.lranc.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-    "scVodNode": "json:list",
-    "scVodName": "name",
-    "scVodId": "id",
-    "scVodIdR": "",
-    "scVodImg": "pic",
-    "scVodMark": "",
+{ 
+ "author":"Tangsan99999",
+ "ua": "", 
+ "homeUrl": "https://www.meiju56.com", 
+ "dcVipFlag": "true", 
+ "pCfgJs": "https://www.meiju56.com/static/js/playerconfig.js", 
+ "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list", 
+ "dcShow2Vip": {}, 
+ "dcPlayUrl": "true", 
+ "cateNode": "//div[contains(@class,'search-hot hidden-xs pull-right')]/li[contains(@class, 'dropdown-hover')]//a[contains(@href, 'vodtype') and not(contains(@href,'label'))]", 
+ "cateName": "/text()", 
+ "cateId": "/@href", 
+ "cateIdR": "/vodtype/(\\w+).html", 
+ "cateManual": {   "电影": "1",   "电视剧": "2",   "综艺": "5",   "动漫": "4",   "纪录片": "3"  }, 
+ "homeVodNode": "//div[contains(@class, 'padding-0')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]", 
+ "homeVodName": "/@title", 
+ "homeVodId": "/@href", 
+ "homeVodIdR": "/voddetail/(\\w+).html", 
+ "homeVodImg": "/@data-original", 
+ "homeVodImgR": "\\S+(http\\S+)", 
+ "homeVodMark": "/span[contains(@class,'pic-text')]/text()", 
+ "cateUrl": "https://www.meiju56.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html", 
+ "cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li/div[contains(@class,'myui-vodlist__box')]", 
+ "cateVodName": "/div[contains(@class,'myui-vodlist__detail')]/h4/a/@title", 
+ "cateVodId": "/a[contains(@class,'myui-vodlist__thumb')]/@href", 
+ "cateVodIdR": "/voddetail/(\\w+).html", 
+ "cateVodImg": "/a[contains(@class,'myui-vodlist__thumb')]/@data-original", 
+ "cateVodImgR": "\\S+(http\\S+)", 
+ "cateVodMark": "/a[contains(@class,'myui-vodlist__thumb')]/span[contains(@class,'pic-text')]/text()", 
+ "dtUrl": "https://www.meiju56.com/voddetail/{vid}.html", 
+ "dtNode": "//body", 
+ "dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title", 
+ "dtNameR": "", 
+ "dtImg": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original", 
+ "dtImgR": "\\S+(http\\S+)", 
+ "dtCate": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分类')]/following-sibling::*/text()", 
+ "dtCateR": "", 
+ "dtArea": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()", 
+ "dtAreaR": "", 
+ "dtYear": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()", 
+ "dtYearR": "", 
+ "dtMark": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '更新')]/following-sibling::*/text()", 
+ "dtMarkR": "", 
+ "dtActor": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()", 
+ "dtActorR": "", 
+ "dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()", 
+ "dtDirectorR": "", 
+ "dtDesc": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '简介')]/parent::text()", 
+ "dtDescR": "", 
+ "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]", 
+ "dtFromName": "/text()", 
+ "dtFromNameR": "", 
+ "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]", 
+ "dtUrlSubNode": "//li/a", 
+ "dtUrlId": "@href", 
+ "dtUrlIdR": "/vodplay/(\\S+).html", 
+ "dtUrlName": "/text()", 
+ "dtUrlNameR": "", 
+ "playUrl": "https://www.meiju56.com/vodplay/{playUrl}.html", 
+ "playUa": "", 
+ "searchUrl": "https://www.meiju56.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10", 
+ "scVodNode": "json:list", 
+ "scVodName": "name", 
+ "scVodId": "id", 
+ "scVodIdR": "", 
+ "scVodImg": "pic", 
+ "scVodMark": "",
  "filter": {
-    "dydq": [
+    "1": [
       {
         "key": "cateId",
         "name": "分类",
         "value": [
           {"n": "全部","v": ""},
-          {"n": "劇情片","v": "jqpdq"},
-          {"n": "動作片","v": "dzpdq"},
-          {"n": "科幻片","v": "khpdq"},
-          {"n": "喜劇片","v": "xjpdq"},
-          {"n": "愛情片","v": "aqpdq"},
-          {"n": "戰爭片","v": "zzpdq"},
-          {"n": "恐怖片","v": "kbpdq"}
+          {"n": "劇情片","v": "11"},
+          {"n": "動作片","v": "6"},
+          {"n": "科幻片","v": "9"},
+          {"n": "喜劇片","v": "7"},
+          {"n": "愛情片","v": "8"},
+          {"n": "戰爭片","v": "12"},
+          {"n": "恐怖片","v": "10"}
         ]
       },
       {
@@ -130,22 +127,16 @@
         ]
       }
     ],
-    "dsjdq": [
+    "2": [
       {
         "key": "cateId",
         "name": "分类",
         "value": [
           {"n": "全部","v": ""},
-          {"n": "国产剧","v": "gcjdq"},
-          {"n": "香港剧","v": "xgjdq"},
-          {"n": "台湾剧","v": "twjdq"},
-          {"n": "韩国剧","v": "hgjdq"},
-          {"n": "日本剧","v": "rbjdq"},
-          {"n": "海外剧","v": "hwjdq"},
-          {"n": "美国剧","v": "美国"},
-          {"n": "新加坡剧","v": "新加坡"},
-          {"n": "泰国剧","v": "泰国"},
-          {"n": "英国剧","v": "英国"}
+          {"n": "国产剧","v": "13"},
+          {"n": "港台剧","v": "14"},
+          {"n": "日韩剧","v": "15"},
+          {"n": "欧美剧","v": "16"}
         ]
       },
       {
@@ -176,7 +167,7 @@
         ]
       }
     ],
-    "dmdq": [
+    "4": [
       {
         "key": "area",
         "name": "地区",
@@ -184,8 +175,8 @@
           {"n": "全部","v": ""},
           {"n": "大陆","v": "大陆"},
           {"n": "日本","v": "日本"},
-          {"n": "美国","v": "美国"},
-          {"n": "香港","v": "香港"}
+          {"n": "欧美","v": "欧美"},
+          {"n": "其他","v": "其他"}
         ]
       },
       {
@@ -216,7 +207,7 @@
         ]
       }
     ],
-    "zydq": [
+    "5": [
       {
         "key": "area",
         "name": "地区",
@@ -226,8 +217,8 @@
           {"n": "台湾","v": "台湾"},
           {"n": "香港","v": "香港"},
           {"n": "日本","v": "日本"},
-          {"n": "美国","v": "美国"},
-          {"n": "英国","v": "英国"}
+          {"n": "美國","v": "美國"},
+          {"n": "美国","v": "美国"}
         ]
       },
       {
@@ -258,7 +249,7 @@
         ]
       }
     ],
-    "jlpdq": [
+    "3": [
       {
         "key": "year",
         "name": "年份",
