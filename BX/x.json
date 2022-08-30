@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/斗鱼.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/斗鱼.json"
     },
     {
       "key": "csp_xpath_huya",
@@ -464,7 +464,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/huya2.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/huya2.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -474,7 +474,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/jubaibai.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/jubaibai.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -484,7 +484,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/蓝莓影视.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/蓝莓影视.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -494,7 +494,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/茶杯狐.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/茶杯狐.json"
     },
     {
       "key": "csp_biubiu_yekong",
@@ -504,7 +504,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/夜空高清.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/夜空高清.json"
     },
     {
       "key": "mtv_pc_yinfans",
@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/yinfans.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/yinfans.json"
     },
     {
       "key": "csp_xpath_pianku",
@@ -524,7 +524,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/pianku.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/pianku.json"
     },
     {
       "key": "csp_app_小鸟动漫",
@@ -544,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/AGE.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/AGE.json"
     },
     {
       "key": "mtv_xp_动漫岛源",
@@ -554,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/dongmandao.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/dongmandao.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -564,7 +564,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/风车动漫.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/风车动漫.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -574,7 +574,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/0mofun动漫.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/0mofun动漫.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -584,7 +584,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXB/森屋新番.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/森屋新番.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -594,7 +594,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/dm84.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/dm84.json"
     },
     {
       "key": "csp_BBB",
@@ -604,7 +604,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/MaooXP/bili.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XP/bili.json"
     },
     {
       "key": "演唱会",
