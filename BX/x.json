@@ -7,7 +7,8 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1 ,"jar":"https://gitea.com/Pandora2277/Box/src/branch/main/custom_spider.jar"
+      "filterable": 1,
+"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
       "key": "360_spider",
