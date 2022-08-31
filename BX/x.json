@@ -468,6 +468,16 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XP/huya2.json"
     },
     {
+      "key": "csp_XYQBiu_凌云影视",
+      "name": "凌云影视",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/凌云影视.json"
+    },
+    {
       "key": "csp_xpath_jbb",
       "name": "剧白白",
       "type": 3,
