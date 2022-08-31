@@ -478,6 +478,16 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/凌云影视.json"
     },
     {
+      "key": "csp_biubiu_蓝光影院",
+      "name": "蓝光影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/蓝光影院.json"
+    },
+    {
       "key": "csp_xpath_jbb",
       "name": "剧白白",
       "type": 3,
