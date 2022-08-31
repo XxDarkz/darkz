@@ -499,13 +499,13 @@
     },
     {
       "key": "csp_biubiu_yekong",
-      "name": "夜空高清",
+      "name": "夜空蓝光",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/夜空高清.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/夜空蓝光.json"
     },
     {
       "key": "mtv_pc_yinfans",
