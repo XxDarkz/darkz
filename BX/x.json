@@ -1,6 +1,24 @@
 {
   "sites": [
     {
+      "key": "T4public",
+      "name": "T4公共",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "T4",
+      "name": "T4爬虫",
+      "type": 4,
+      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_77",
       "name": "七七（稳快画质一般）",
       "type": 3,
@@ -243,24 +261,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "T4public",
-      "name": "T4公共",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "T4",
-      "name": "T4爬虫",
-      "type": 4,
-      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "Yiso",
