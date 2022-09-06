@@ -1,19 +1,28 @@
 {
-  "sites": [   
-    {
-      "key": "T4public",
-      "name": "T4公共",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+  "sites": [
     {
       "key": "csp_77",
       "name": "七七（稳快画质一般）",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "T4public",
+      "name": "榜单荐片(桉佬T4)",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=voflix,bdys01,onelist&timeout=6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "APPTT",
+      "name": "图图（SP）",
+      "type": 3,
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -438,6 +447,105 @@
       "filterable": 0
     },
     {
+      "key": "VIP2",
+      "name": "通道-12（唐长老T4）",
+      "type": 4,
+      "api": "http://vod.kooo.eu.org/t4/vip110002",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VIP4",
+      "name": "通道-13（唐长老T4）",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11cx08",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VIP8",
+      "name": "通道-14（唐长老T4）",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11b016",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VIP16",
+      "name": "通道-15（唐长老T4）",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11fx64",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dr_在线之家",
+      "name": "通道-73（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=在线之家",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dr_喵喵",
+      "name": "通道-74（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=喵喵",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dr_万能影视",
+      "name": "通道-75（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=万能影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dr_莫扎兔",
+      "name": "通道-76（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=莫扎兔",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dr_鸭奈飞",
+      "name": "通道-77（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=鸭奈飞",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dr_蓝光影院",
+      "name": "通道-78（道长dr）",
+      "type": 1,
+      "api": "http://cms.nokia.press/vod?rule=蓝光影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_bendi",
+      "name": "本地文件（仅能播放视频）",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "csp_biubiu_斗鱼",
       "name": "斗鱼直播",
       "type": 3,
@@ -459,13 +567,33 @@
     },
     {
       "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视",
+      "name": "凌云影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/凌云影视.json"
+    },
+    {
+      "key": "csp_XYQBiu_23yy",
+      "name": "23影院（XYQ）",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/23影院.json"
+    },
+    {
+      "key": "csp_XYQBiu_wanneng",
+      "name": "万能影院（XYQ）",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/万能影视.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -655,7 +783,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
           ]
         }
       ]
@@ -678,19 +806,39 @@
       "url": "Sequence"
     },
     {
-      "name": "GGTV快速",
+      "name": "GGTV搜集",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="
+      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
     },
     {
-      "name": "parwix稳定",
+      "name": "GGTV自用",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
+    },
+    {
+      "name": "parwix嗅探",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     },
     {
-      "name": "OKjx综合",
+      "name": "OKjx嗅探",
       "type": 0,
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "爱酷",
+      "type": 1,
+      "url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
+    },
+    {
+      "name": "懒人",
+      "type": 1,
+      "url": "http://120.53.102.254/jx1/jx73.php?url="
+    },
+    {
+      "name": "江湖",
+      "type": 1,
+      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     }
   ],
   "flags": [
@@ -951,5 +1099,4 @@
   ],
   "wallpaper": "http://刚刚.live/图",
   "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;ee77d27ee6ecfc4b6bcea8315954ec0c"
-
 }
