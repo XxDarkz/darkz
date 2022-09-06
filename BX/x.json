@@ -448,7 +448,7 @@
     },
     {
       "key": "VIP2",
-      "name": "通道-12（唐长老T4）",
+      "name": "蓝光（唐长老T4）",
       "type": 4,
       "api": "http://vod.kooo.eu.org/t4/vip110002",
       "searchable": 1,
@@ -457,7 +457,7 @@
     },
     {
       "key": "VIP4",
-      "name": "通道-13（唐长老T4）",
+      "name": "80S（唐长老T4）",
       "type": 4,
       "api": "https://vod.kooo.eu.org/t4/vip11cx08",
       "searchable": 1,
@@ -466,7 +466,7 @@
     },
     {
       "key": "VIP8",
-      "name": "通道-14（唐长老T4）",
+      "name": "唐人街（唐长老T4）",
       "type": 4,
       "api": "https://vod.kooo.eu.org/t4/vip11b016",
       "searchable": 1,
@@ -475,7 +475,7 @@
     },
     {
       "key": "VIP16",
-      "name": "通道-15（唐长老T4）",
+      "name": "农民（唐长老T4）",
       "type": 4,
       "api": "https://vod.kooo.eu.org/t4/vip11fx64",
       "searchable": 1,
@@ -484,7 +484,7 @@
     },
     {
       "key": "dr_在线之家",
-      "name": "通道-73（道长dr）",
+      "name": "在线之家（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=在线之家",
       "searchable": 1,
@@ -493,7 +493,7 @@
     },
     {
       "key": "dr_喵喵",
-      "name": "通道-74（道长dr）",
+      "name": "喵喵（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=喵喵",
       "searchable": 1,
@@ -502,7 +502,7 @@
     },
     {
       "key": "dr_万能影视",
-      "name": "通道-75（道长dr）",
+      "name": "万能影视（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=万能影视",
       "searchable": 1,
@@ -511,7 +511,7 @@
     },
     {
       "key": "dr_莫扎兔",
-      "name": "通道-76（道长dr）",
+      "name": "莫扎兔（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=莫扎兔",
       "searchable": 1,
@@ -520,7 +520,7 @@
     },
     {
       "key": "dr_鸭奈飞",
-      "name": "通道-77（道长dr）",
+      "name": "鸭奈飞（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=鸭奈飞",
       "searchable": 1,
@@ -529,7 +529,7 @@
     },
     {
       "key": "dr_蓝光影院",
-      "name": "通道-78（道长dr）",
+      "name": "蓝光影院（道长dr）",
       "type": 1,
       "api": "http://cms.nokia.press/vod?rule=蓝光影院",
       "searchable": 1,
