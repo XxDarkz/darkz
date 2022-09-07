@@ -553,7 +553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/斗鱼直播.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/douyu.json"
     },
     {
       "key": "csp_XYQBiu_huya",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/虎牙直播.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/huya.json"
     },
     {
       "key": "csp_XYQBiu_凌云影视",
@@ -573,7 +573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/凌云影视.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/lingyun.json"
     },
     {
       "key": "csp_XYQBiu_23yy",
@@ -593,7 +593,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/万能影视.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/wanneng.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -603,7 +603,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/蓝光影院.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/lgyy.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -613,7 +613,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XPMACFILTER/jubaibai.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XPMF/jubaibai.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -623,7 +623,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/蓝莓影视.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/lanmei.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -633,7 +633,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/茶杯狐.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/cupfox.json"
     },
     {
       "key": "csp_biubiu_yekong",
@@ -643,7 +643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/夜空蓝光.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/yekong.json"
     },
     {
       "key": "mtv_pc_yinfans",
@@ -673,7 +673,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/0mofun动漫.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/0mofun.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -683,7 +683,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/森屋新番.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XB/senwu.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
