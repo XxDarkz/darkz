@@ -556,14 +556,14 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/斗鱼直播.json"
     },
     {
-      "key": "csp_xpath_huya",
+      "key": "csp_XYQBiu_huya",
       "name": "虎牙直播",
       "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/huya2.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/虎牙直播.json"
     },
     {
       "key": "csp_XYQBiu_凌云影视",
@@ -603,7 +603,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/蓝光影院.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/蓝光影院.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -613,7 +613,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/jubaibai.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XPMACFILTER/jubaibai.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -623,7 +623,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/蓝莓影视.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/蓝莓影视.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -633,7 +633,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/茶杯狐.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/茶杯狐.json"
     },
     {
       "key": "csp_biubiu_yekong",
@@ -643,7 +643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/夜空蓝光.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBB/夜空蓝光.json"
     },
     {
       "key": "mtv_pc_yinfans",
@@ -664,46 +664,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://xxdarkz.github.io/darkz/BX/XP/pianku.json"
-    },
-    {
-      "key": "csp_app_小鸟动漫",
-      "name": "小鸟动漫",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "mtv_xp_AGE",
-      "name": "AGE动漫",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/AGE.json"
-    },
-    {
-      "key": "mtv_xp_动漫岛源",
-      "name": "动漫岛",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/dongmandao.json"
-    },
-    {
-      "key": "csp_biubiu_风车动漫",
-      "name": "风车动漫",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/风车动漫.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
