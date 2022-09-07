@@ -549,11 +549,11 @@
       "key": "csp_biubiu_斗鱼",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/斗鱼.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/斗鱼直播.json"
     },
     {
       "key": "csp_xpath_huya",
