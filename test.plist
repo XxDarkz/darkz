@@ -19,11 +19,11 @@
                 <key>title</key>
                 <string>爱阅书香</string>
                 <key>bundle-version</key>
-                <string>ifreebooks</string>
+                <string>6.8.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.test.egocode</string>
+                <string>Endless</string>
             </dict>
         </dict>
     </array>
