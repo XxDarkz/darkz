@@ -7,7 +7,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_bilibili.py"
 	}, {
 		"key": "py_bilivd",
 		"name": "B站(带搜索)",
@@ -16,7 +16,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilivd.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_bilivd.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
@@ -25,7 +25,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_3qu.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_3qu.py"
 	},{
 		"key": "py_cctv",
 		"name": "央视",
@@ -34,7 +34,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cctv.py"
 	}, {
 		"key": "py_czspp",
 		"name": "厂长",
@@ -43,7 +43,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_czspp.py"
 	},{
 		"key": "py_cyys",
 		"name": "创艺",
@@ -52,7 +52,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cyys.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cyys.py"
 	},{
 		"key": "py_zxzj",
 		"name": "在线之家",
@@ -61,7 +61,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_zxzj.py"
 	},{
 		"key": "py_wmkk",
 		"name": "完美看看(半残)",
@@ -70,7 +70,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_wmkk.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_wmkk.py"
 	},{
 		"key": "py_voflix",
 		"name": "Voflix",
@@ -79,7 +79,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_voflix.py"
 	}, {
 		"key": "py_bilimd",
 		"name": "B站影视",
@@ -88,7 +88,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_bilimd.py"
 	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
@@ -97,7 +97,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_gimytv.py"
 	}, {
 		"key": "py_genmov",
 		"name": "跟剧",
@@ -106,7 +106,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_genmov.py"
 	}, {
 		"key": "py_huya",
 		"name": "虎牙",
@@ -115,7 +115,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_huya.py"
 	}, {
 		"key": "py_douyu",
 		"name": "斗鱼",
@@ -124,7 +124,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_douyu.py"
 	}, {
 		"key": "py_cokemv",
 		"name": "COKE",
@@ -133,7 +133,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cokemv.py"
 	}, {
 		"key": "py_xmaomi",
 		"name": "猫咪",
@@ -142,7 +142,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_xmaomi.py"
 	}, {
 		"key": "py_gitcafe",
 		"name": "小纸条",
@@ -151,7 +151,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gitcafe.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_gitcafe.py"
 	}, {
 		"key": "py_yiso",
 		"name": "易搜",
@@ -160,7 +160,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_yiso.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_yiso.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -169,7 +169,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -178,7 +178,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_pansou.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
@@ -187,7 +187,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
