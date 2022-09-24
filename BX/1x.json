@@ -37,6 +37,15 @@
       "filterable": 1
     },
     {
+      "key": "哔滴影视",
+      "name": "哔滴影视(爬虫)",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "360_spider",
       "name": "️️360影视（SP官解）",
       "type": 3,
