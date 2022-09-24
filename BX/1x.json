@@ -28,6 +28,15 @@
       "filterable": 1
     },
     {
+      "key": "NianYing",
+      "name": "NianYing（SP）",
+      "type": 3,
+      "api": "csp_NianYing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "360_spider",
       "name": "️️360影视（SP官解）",
       "type": 3,
@@ -968,5 +977,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;821c0ae95c4c6f6f5b2d69e3425f5b05"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;e376d5c4b20627b7a07bf28270e4ba6b"
 }
