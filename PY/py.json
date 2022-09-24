@@ -17,25 +17,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_bilivd.py"
-	},{
-		"key": "py_kunyu77",
-		"name": "七七",
-		"type": 3,
-		"api": "py_kunyu77",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_kunyu77.py"
-	},{
-		"key": "py_3qu",
-		"name": "3QU",
-		"type": 3,
-		"api": "py_3qu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_3qu.py"
-	},{
+	}, {
 		"key": "py_cctv",
 		"name": "央视",
 		"type": 3,
@@ -45,6 +27,33 @@
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cctv.py"
 	}, {
+		"key": "py_kunyu77",
+		"name": "七七",
+		"type": 3,
+		"api": "py_kunyu77",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_kunyu77.py"
+	}, {
+		"key": "py_3qu",
+		"name": "3QU",
+		"type": 3,
+		"api": "py_3qu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_3qu.py"
+	}, {
+		"key": "py_kuaikan",
+		"name": "快看",
+		"type": 3,
+		"api": "py_kuaikan",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_kuaikan.py"
+	}, {
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
@@ -53,7 +62,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_czspp.py"
-	},{
+	}, {
 		"key": "py_cyys",
 		"name": "创艺",
 		"type": 3,
@@ -62,7 +71,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cyys.py"
-	},{
+	}, {
 		"key": "py_zxzj",
 		"name": "在线之家",
 		"type": 3,
@@ -71,7 +80,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_zxzj.py"
-	},{
+	}, {
 		"key": "py_wmkk",
 		"name": "完美看看(半残)",
 		"type": 3,
@@ -80,7 +89,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_wmkk.py"
-	},{
+	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
