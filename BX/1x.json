@@ -304,7 +304,7 @@
       "key": "AliPS",
       "name": "盘搜(云盘仅搜索)",
       "type": 3,
-      "api": "csp_AliPanSou",
+      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
