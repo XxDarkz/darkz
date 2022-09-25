@@ -321,6 +321,17 @@
       "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
+      "key": "Upyunso",
+      "name": "🌤UP云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+    },
+    {
       "key": "push_agent",
       "name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
       "type": 3,
