@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "七七（稳快画质一般）",
+      "name": "七七（SP）",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -322,7 +322,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "UP云搜",
+      "name": "UP云搜(云盘仅搜索)",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -369,7 +369,7 @@
     },
     {
       "key": "csp_AppYsV2",
-      "name": "优众影视",
+      "name": "优众影视(采集)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -439,7 +439,7 @@
     },
     {
       "key": "mtv_zh_ccchys",
-      "name": "CV影视（有广告）",
+      "name": "CV影视（采集有广告）",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -484,8 +484,108 @@
       "filterable": 1
     },
     {
+      "key": "csp_xBPQ_在线",
+      "name": "️在线之家(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/zxzj2.json"
+    },
+    {
+      "key": "csp_xBPQ_buka",
+      "name": "️不卡影院(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/buka.json"
+    },
+    {
+      "key": "csp_xBPQ_极品",
+      "name": "极品影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/jpys.json"
+    },
+    {
+      "key": "csp_xBPQ_cs",
+      "name": "️FreeOK(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/freeok.json"
+    },
+    {
+      "key": "csp_xBPQ_um",
+      "name": "UM影院(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/umkan.json"
+    },
+    {
+      "key": "csp_xBPQ_爱酷",
+      "name": "爱酷影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/aiku.json"
+    },
+    {
+      "key": "csp_xBPQ_番茄",
+      "name": "番茄影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/fanqie.json"
+    },
+    {
+      "key": "csp_xBPQ_瓜皮TV",
+      "name": "瓜皮影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/guapi.json"
+    },
+    {
+      "key": "csp_xBPQ_蓝光",
+      "name": "蓝光影院(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/lgyy.json"
+    },
+    {
+      "key": "csp_xBPQ_酷客",
+      "name": "酷客影院(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/kuke.json"
+    },
+    {
       "key": "csp_biubiu_斗鱼",
-      "name": "斗鱼直播",
+      "name": "斗鱼直播(XYQB)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -495,7 +595,7 @@
     },
     {
       "key": "csp_XYQBiu_huya",
-      "name": "虎牙直播",
+      "name": "虎牙直播(XYQB)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -505,7 +605,7 @@
     },
     {
       "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视(XYQ)",
+      "name": "凌云影视(XYQB)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -515,7 +615,7 @@
     },
     {
       "key": "csp_XYQBiu_23yy",
-      "name": "23影院（XYQ）",
+      "name": "23影院(XYQB)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -525,7 +625,7 @@
     },
     {
       "key": "csp_XYQBiu_wanneng",
-      "name": "万能影院（XYQ）",
+      "name": "万能影院(XYQB)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -534,24 +634,41 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/wanneng.json"
     },
     {
-      "key": "csp_biubiu_蓝光影院",
-      "name": "蓝光影院",
+      "key": "csp_XYQBiu_大米星球",
+      "name": "大米星球(XYQB)",
       "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/lgyy.json"
-    },
-    {
-      "key": "csp_xpath_jbb",
-      "name": "剧白白",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XPMF/jubaibai.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/dmxq2.json"
+    },
+    {
+      "key": "dr_玄天",
+      "name": "玄天影视(dr)",
+      "type": 1,
+      "api": "http://drpy.fuqizhishi.com/vod?rule=玄天",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "dr_人人影视",
+      "name": "人人影视(dr)",
+      "type": 1,
+      "api": "http://drpy.fuqizhishi.com/vod?rule=人人影视",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "dr_TV云播",
+      "name": "TV云播(dr)",
+      "type": 1,
+      "api": "http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -711,12 +828,17 @@
     {
       "name": "GGTV自用",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
+      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="
     },
     {
-      "name": "parwix嗅探",
+      "name": "GGTV搜集",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+    },
+    {
+      "name": "Fosi嗅探",
       "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
+      "url": "https://play.fositv.com/?url="
     },
     {
       "name": "OKjx嗅探",
@@ -724,17 +846,22 @@
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "爱酷",
-      "type": 1,
-      "url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
+      "name": "爱酷嗅探",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
     },
     {
-      "name": "懒人",
+      "name": "刘兵解析",
       "type": 1,
-      "url": "http://120.53.102.254/jx1/jx73.php?url="
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     },
     {
-      "name": "江湖",
+      "name": "江湖解析",
       "type": 1,
       "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     }
