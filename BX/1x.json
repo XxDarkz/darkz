@@ -458,6 +458,16 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/zxzj2.json"
     },
     {
+      "key": "csp_xBPQ_555",
+      "name": "️555电影(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/555dy.json"
+    },
+    {
       "key": "csp_xBPQ_buka",
       "name": "️不卡影院(XBPQ)",
       "type": 3,
