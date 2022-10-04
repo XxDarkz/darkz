@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "NianYing",
-      "name": "NianYing（SP）",
+      "key": "Nianying",
+      "name": "Nianying（SP）",
       "type": 3,
-      "api": "csp_NianYing",
+      "api": "csp_Nianying",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -82,8 +82,8 @@
       "filterable": 1
     },
     {
-      "key": "农民影视",
-      "name": "农民兴趣（SP）",
+      "key": "Nmys",
+      "name": "农民影视（SP）",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -98,6 +98,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "Xxys",
+      "name": "小熊影视（SP）",
+      "type": 3,
+      "api": "csp_Xxys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "神马影院",
