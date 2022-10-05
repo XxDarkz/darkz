@@ -45,14 +45,14 @@
 		"filterable": 1,
 		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_cctv_full.py"
 	}, {
-		"key": "py_kunyu77",
-		"name": "七七",
+		"key": "py_libvio",
+		"name": "libvio",
 		"type": 3,
-		"api": "py_kunyu77",
+		"api": "py_libvio",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_kunyu77.py"
+		"ext": "https://xxdarkz.github.io/darkz/PY/plugin/py_libvio.py"
 	}, {
 		"key": "py_3qu",
 		"name": "3QU",
