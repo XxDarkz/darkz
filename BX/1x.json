@@ -19,6 +19,15 @@
       "filterable": 0
     },
     {
+      "key":"T4_douban",
+      "name":"🔍影视推荐(T4)",
+      "type":4,
+      "api":"http://top.fuqizhishi.com/vod",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "APPTT",
       "name": "图图（SP）",
       "type": 3,
@@ -644,33 +653,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/dmxq2.json"
-    },
-    {
-      "key": "dr_玄天",
-      "name": "玄天影视(dr)",
-      "type": 1,
-      "api": "http://drpy.fuqizhishi.com/vod?rule=玄天",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "dr_人人影视",
-      "name": "人人影视(dr)",
-      "type": 1,
-      "api": "http://drpy.fuqizhishi.com/vod?rule=人人影视",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "dr_TV云播",
-      "name": "TV云播(dr)",
-      "type": 1,
-      "api": "http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "csp_biubiu_蓝莓影视",
