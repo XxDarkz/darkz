@@ -88,7 +88,8 @@
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
     },
     {
       "key": "csp_DiDuan",
