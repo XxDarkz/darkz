@@ -655,16 +655,6 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/dmxq2.json"
     },
     {
-      "key": "csp_biubiu_蓝莓影视",
-      "name": "蓝莓影视",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/lanmei.json"
-    },
-    {
       "key": "csp_biubiu_cupfox",
       "name": "茶杯狐",
       "type": 3,
@@ -675,16 +665,6 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XB/cupfox.json"
     },
     {
-      "key": "csp_biubiu_yekong",
-      "name": "夜空蓝光",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/yekong.json"
-    },
-    {
       "key": "mtv_pc_yinfans",
       "name": "音范丝（蓝光磁力）",
       "type": 3,
@@ -693,16 +673,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xxdarkz.github.io/darkz/BX/XP/yinfans.json"
-    },
-    {
-      "key": "csp_xpath_pianku",
-      "name": "片库资源",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/pianku.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
