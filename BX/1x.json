@@ -282,6 +282,15 @@
       "filterable": 1
     },
     {
+      "key": "cap_Zxzj",
+      "name": "在线之家（SP)",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Yiso",
       "name": "易搜(云盘仅搜索)",
       "type": 3,
