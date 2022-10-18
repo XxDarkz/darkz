@@ -13,7 +13,7 @@
       "key": "T4public",
       "name": "榜单荐片(桉佬T4)",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=10",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Gitcafe",
@@ -308,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "AliPS",
@@ -318,7 +318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "zhaozy",
@@ -328,7 +328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Upyunso",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -348,7 +348,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "csp_QQ",
