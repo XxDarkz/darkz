@@ -456,16 +456,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_xb_快看",
-      "name": "快看影视",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"
-    },
-    {
       "key": "csp_xBPQ_在线",
       "name": "️在线之家(XBPQ)",
       "type": 3,
@@ -484,46 +474,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/555dy.json"
-    },
-    {
-      "key": "csp_xBPQ_buka",
-      "name": "️不卡影院(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/buka.json"
-    },
-    {
-      "key": "csp_xBPQ_极品",
-      "name": "极品影视(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/jpys.json"
-    },
-    {
-      "key": "csp_xBPQ_cs",
-      "name": "️FreeOK(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/freeok.json"
-    },
-    {
-      "key": "csp_xBPQ_um",
-      "name": "UM影院(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/umkan.json"
     },
     {
       "key": "csp_xBPQ_爱酷",
@@ -606,16 +556,6 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/lingyun.json"
     },
     {
-      "key": "csp_XYQBiu_23yy",
-      "name": "23影院(XYQB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/23影院.json"
-    },
-    {
       "key": "csp_XYQBiu_wanneng",
       "name": "万能影院(XYQB)",
       "type": 3,
@@ -626,16 +566,6 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/wanneng.json"
     },
     {
-      "key": "csp_XYQBiu_大米星球",
-      "name": "大米星球(XYQB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XYQB/dmxq2.json"
-    },
-    {
       "key": "csp_biubiu_cupfox",
       "name": "茶杯狐",
       "type": 3,
@@ -644,46 +574,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://xxdarkz.github.io/darkz/BX/XB/cupfox.json"
-    },
-    {
-      "key": "mtv_pc_yinfans",
-      "name": "音范丝（蓝光磁力）",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/yinfans.json"
-    },
-    {
-      "key": "csp_biubiu_OmoFun动漫",
-      "name": "OmoFun动漫",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/0mofun.json"
-    },
-    {
-      "key": "csp_biubiu_森屋新番",
-      "name": "森屋新番",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XB/senwu.json"
-    },
-    {
-      "key": "csp_xpath___动漫巴士",
-      "name": "动漫巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XP/dm84.json"
     },
     {
       "key": "csp_BBB",
