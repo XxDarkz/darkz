@@ -252,8 +252,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
+    },     {
+       "key": "Nmys",
+       "name": "农民影视（SP）",
+       "type": 3,
+       "api": "csp_Nmys",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
+     }, 
+     {
+       "key": "Nianying",
+       "name": "Nianying（SP）",
+       "type": 3,
+       "api": "csp_Nianying",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+     },
+     {
       "key": "csp_Zxzj",
       "name": "在线之家（SP)",
       "type": 3,
