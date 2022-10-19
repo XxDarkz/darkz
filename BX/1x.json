@@ -37,15 +37,6 @@
       "filterable": 1
     },
     {
-      "key": "Nianying",
-      "name": "Nianying（SP）",
-      "type": 3,
-      "api": "csp_Nianying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "哔滴影视",
       "name": "哔滴影视(SP)",
       "type": 3,
@@ -89,16 +80,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Nmys",
-      "name": "农民影视（SP）",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
     },
     {
       "key": "csp_DiDuan",
@@ -264,15 +245,6 @@
       "filterable": 1
     },
     {
-      "key": "KanSJ_spider",
-      "name": "看视界（SP）",
-      "type": 3,
-      "api": "csp_KanSJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "293视频",
       "name": "293视频（SP随缘修）",
       "type": 3,
@@ -328,16 +300,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key": "Upyunso",
-      "name": "UP云搜(云盘仅搜索)",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok"
     },
     {
