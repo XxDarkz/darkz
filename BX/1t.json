@@ -37,6 +37,15 @@
       "filterable": 1
     },
     {
+      "key": "Zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Czsapp",
       "name": "厂长",
       "type": 3,
@@ -135,15 +144,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "地址"
-    },
-    {
-      "key": "Zxzj",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Gitcafe",
