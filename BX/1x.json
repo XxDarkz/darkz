@@ -491,7 +491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/zxzj2.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/在线之家.json"
     },
     {
       "key": "csp_xBPQ_555",
@@ -501,7 +501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/555dy.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/555电影.json"
     },
     {
       "key": "csp_xBPQ_爱酷",
@@ -511,7 +511,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/aiku.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/爱酷影视.json"
     },
     {
       "key": "csp_xBPQ_番茄",
@@ -521,7 +521,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/fanqie.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/番茄影视.json"
     },
     {
       "key": "csp_xBPQ_瓜皮TV",
@@ -531,7 +531,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/guapi.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/瓜皮TV.json"
     },
     {
       "key": "csp_xBPQ_蓝光",
@@ -541,17 +541,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/lgyy.json"
-    },
-    {
-      "key": "csp_xBPQ_酷客",
-      "name": "酷客影院(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/kuke.json"
+      "ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/蓝光影院.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
