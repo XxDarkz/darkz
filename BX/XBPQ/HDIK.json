@@ -10,8 +10,6 @@
   
   "副标题": "text-right\">&&</span>",
   
-  "搜索模式": "0",
-  "搜索url": "http://hdik.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
   "搜索后缀":"/index.php/vod/detail/id/",
   
   "导演": "导演：&&</p>",
