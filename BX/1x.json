@@ -1,24 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_77",
-      "name": "七七（SP）",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "T4public",
-      "name": "榜单荐片(桉佬T4)",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key":"T4_douban",
       "name":"🔍影视推荐(T4)",
       "type":4,
@@ -26,6 +8,15 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
+    },
+    {
+      "key": "csp_77",
+      "name": "七七（SP）",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "APPTT",
@@ -182,10 +173,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_Xiaoh",
-      "name": "小宝影院（SP）",
+      "key": "csp_Xxys",
+      "name": "小熊影院（SP）",
       "type": 3,
-      "api": "csp_Xiaoh",
+      "api": "csp_Xxys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
