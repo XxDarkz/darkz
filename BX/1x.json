@@ -91,6 +91,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_wmkk",
+      "name": "完美看看（SP）",
+      "type": 3,
+      "api": "csp_Wmkk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "神马影院",
       "name": "神马影院（SP）",
       "type": 3,
@@ -146,10 +155,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_Cokemv",
-      "name": "Cokemv（SP）",
+      "key": "csp_dm84",
+      "name": "动漫巴士（SP）",
       "type": 3,
-      "api": "csp_Cokemv",
+      "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -191,6 +200,15 @@
       "filterable": 0
     },
     {
+      "key": "csp_ysgc",
+      "name": "影视工厂（SP）",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cap_ZJMiao",
       "name": "追剧喵（SP）",
       "type": 3,
@@ -227,7 +245,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_dd5555",
+      "key": "csp_dd555",
       "name": "555影视（SP）",
       "type": 3,
       "api": "csp_Dy555",
@@ -252,15 +270,6 @@
        "quickSearch": 1,
        "filterable": 1,
        "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
-     }, 
-     {
-       "key": "Nianying",
-       "name": "Nianying（SP）",
-       "type": 3,
-       "api": "csp_Nianying",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1
      },
      {
       "key": "csp_Zxzj",
@@ -957,5 +966,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;d499b27646ce5c7be3a4a1c895bbc002"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;10a809c24f3f39f152507425839e20a0"
 }
