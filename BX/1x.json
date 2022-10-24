@@ -100,15 +100,6 @@
       "filterable": 1
     },
     {
-      "key": "神马影院",
-      "name": "神马影院（SP）",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Bttoo",
       "name": "两个BT（SP）",
       "type": 3,
@@ -168,15 +159,6 @@
       "name": "美剧星球（SP）",
       "type": 3,
       "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Tkys",
-      "name": "天空影视（SP）",
-      "type": 3,
-      "api": "csp_Tkys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -245,23 +227,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_dd555",
-      "name": "555影视（SP）",
-      "type": 3,
-      "api": "csp_Dy555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "293视频",
-      "name": "293视频（SP随缘修）",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },     {
        "key": "Nmys",
        "name": "农民影视（SP）",
        "type": 3,
@@ -311,7 +276,7 @@
       "ext": "69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
-      "key": "zhaozy",
+      "key": "findzy",
       "name": "找资源(云盘仅搜索)",
       "type": 3,
       "api": "csp_FindZY",
@@ -966,5 +931,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;10a809c24f3f39f152507425839e20a0"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;7ad9bdfb9372b2aacf9d1e515002a128"
 }
