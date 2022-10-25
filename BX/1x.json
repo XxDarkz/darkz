@@ -100,6 +100,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_zjdr",
+      "name": "追剧达人（SP）",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Jianying",
       "name": "简影（SP）",
       "type": 3,
@@ -1002,5 +1011,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;ef37b2a39ea3ff177d878a2781bf28ea"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;b6fc7d713962881d2c3970a5f15ed3fe"
 }
