@@ -1,37 +1,19 @@
 {
   "sites": [
     {
-      "key":"T4_douban",
-      "name":"🔍影视推荐(T4)",
-      "type":4,
-      "api":"http://top.fuqizhishi.com/vod",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
+      "key": "T4_douban",
+      "name": "🔍影视推荐(T4)",
+      "type": 4,
+      "api": "http://top.fuqizhishi.com/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_77",
       "name": "七七（SP）",
       "type": 3,
       "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "APPTT",
-      "name": "图图（SP）",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "哔滴影视",
-      "name": "哔滴影视(SP)",
-      "type": 3,
-      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -46,19 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视（SP）",
+      "key": "APPTT",
+      "name": "图图（SP）",
       "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小苹果",
-      "name": "小苹果（SP中间有广告）",
-      "type": 3,
-      "api": "csp_LiteApple",
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -82,19 +55,37 @@
       "filterable": 0
     },
     {
-      "key": "Xxys",
-      "name": "小熊影视（SP）",
+      "key": "csp_ysgc",
+      "name": "影视工厂（SP）",
       "type": 3,
-      "api": "csp_Xxys",
+      "api": "csp_Ysgc",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_wmkk",
-      "name": "完美看看（SP）",
+      "key": "csp_LibVio",
+      "name": "LibVio（SP）",
       "type": 3,
-      "api": "csp_Wmkk",
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长资源（SP）",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Zxzj",
+      "name": "在线之家（SP)",
+      "type": 3,
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -128,15 +119,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_LibVio",
-      "name": "LibVio（SP）",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_Auete",
       "name": "Auete（SP）",
       "type": 3,
@@ -146,46 +128,47 @@
       "filterable": 1
     },
     {
-      "key": "csp_dm84",
-      "name": "动漫巴士（SP）",
+      "key": "Lezhu_spider",
+      "name": "乐猪影视（SP）",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_Lezhu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_Mjxq",
-      "name": "美剧星球（SP）",
+      "key": "Nmys",
+      "name": "农民影视（SP）",
       "type": 3,
-      "api": "csp_Mjxq",
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
+    },
+    {
+      "key": "哔滴影视",
+      "name": "哔滴影视(SP)",
+      "type": 3,
+      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_Xxys",
-      "name": "小熊影院（SP）",
+      "key": "小苹果",
+      "name": "小苹果（SP中间有广告）",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xxys",
+      "name": "小熊影视（SP）",
       "type": 3,
       "api": "csp_Xxys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长资源（SP）",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_ysgc",
-      "name": "影视工厂（SP）",
-      "type": 3,
-      "api": "csp_Ysgc",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -209,6 +192,33 @@
       "filterable": 1
     },
     {
+      "key": "csp_dm84",
+      "name": "动漫巴士（SP）",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Mjxq",
+      "name": "美剧星球（SP）",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_wmkk",
+      "name": "完美看看（SP）",
+      "type": 3,
+      "api": "csp_Wmkk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Yj1211",
       "name": "直播合集（SP）",
       "type": 3,
@@ -227,20 +237,46 @@
       "filterable": 1
     },
     {
-       "key": "Nmys",
-       "name": "农民影视（SP）",
-       "type": 3,
-       "api": "csp_Nmys",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
-     },
-     {
-      "key": "csp_Zxzj",
-      "name": "在线之家（SP)",
+      "key": "csp_tkys",
+      "name": "天空影视（SP)",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_Tkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_sp93",
+      "name": "293（SP)",
+      "type": 3,
+      "api": "csp_SP293",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_If101",
+      "name": "101（SP墙)",
+      "type": 3,
+      "api": "csp_if101",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_nbys",
+      "name": "泥巴（SP墙)",
+      "type": 3,
+      "api": "csp_Nbys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xiaoh",
+      "name": "小宝（SP墙）",
+      "type": 3,
+      "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -286,16 +322,16 @@
       "ext": "69ddb8566b0f4cfb965278be2d6abd94"
     },
     {
-       "key": "Upyunso",
-       "name": "UP云搜(云盘仅搜索)",
-       "type": 3,
-       "api": "csp_Upyunso",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "69ddb8566b0f4cfb965278be2d6abd94"
-     },
-     {
+      "key": "Upyunso",
+      "name": "UP云搜(云盘仅搜索)",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "69ddb8566b0f4cfb965278be2d6abd94"
+    },
+    {
       "key": "push_agent",
       "name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
       "type": 3,
@@ -931,5 +967,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;7ad9bdfb9372b2aacf9d1e515002a128"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;ef37b2a39ea3ff177d878a2781bf28ea"
 }
