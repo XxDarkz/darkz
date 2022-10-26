@@ -246,10 +246,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_tkys",
-      "name": "天空影视（SP)",
+      "key": "csp_kansj",
+      "name": "看视界（SP)",
       "type": 3,
-      "api": "csp_Tkys",
+      "api": "csp_KanSJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1011,5 +1011,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;b6fc7d713962881d2c3970a5f15ed3fe"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;d768e856a80cc8b5632f5d7332833bd4"
 }
