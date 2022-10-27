@@ -255,10 +255,10 @@
       "filterable": 1
     },
     {
-      "key": "Yiso",
+      "key": "Yisou",
       "name": "易搜(云盘仅搜索)",
       "type": 3,
-      "api": "csp_Yiso",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -975,5 +975,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;e2351ba2ef6d9a7cc06132d46f3118a7"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;856968180716cb651970985f1dca8d3f"
 }
