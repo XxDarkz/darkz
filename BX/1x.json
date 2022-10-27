@@ -20,7 +20,7 @@
     },
     {
       "key": "360_spider",
-      "name": "️️360影视（SP官解）",
+      "name": "️️360（SP）",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "快看影视（SP）",
+      "name": "快看（SP）",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端影视（SP）",
+      "name": "低端（SP）",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_ysgc",
-      "name": "影视工厂（SP）",
+      "name": "工厂（SP）",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长资源（SP）",
+      "name": "厂长（SP）",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "在线之家（SP)",
+      "name": "在线（SP)",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "两个BT（SP）",
+      "name": "两BT（SP）",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_zjdr",
-      "name": "追剧达人（SP）",
+      "name": "达人（SP）",
       "type": 3,
       "api": "csp_Zjdr",
       "searchable": 1,
@@ -137,8 +137,8 @@
       "filterable": 1
     },
     {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视（SP）",
+      "key": "csp_lezhu",
+      "name": "乐猪（SP）",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "Nmys",
-      "name": "农民影视（SP）",
+      "name": "农民（SP）",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -156,8 +156,8 @@
       "ext": "https://xxdarkz.github.io/darkz/BX/Bili/Nmys.json"
     },
     {
-      "key": "哔滴影视",
-      "name": "哔滴影视(SP)",
+      "key": "csp_bdys01",
+      "name": "哔滴(SP)",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -165,8 +165,8 @@
       "filterable": 1
     },
     {
-      "key": "小苹果",
-      "name": "小苹果（SP中间有广告）",
+      "key": "csp_liteapple",
+      "name": "苹果（SP）",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -175,7 +175,7 @@
     },
     {
       "key": "Xxys",
-      "name": "小熊影视（SP）",
+      "name": "小熊（SP）",
       "type": 3,
       "api": "csp_Xxys",
       "searchable": 1,
@@ -219,15 +219,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_wmkk",
-      "name": "完美看看（SP）",
-      "type": 3,
-      "api": "csp_Wmkk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Yj1211",
       "name": "直播合集（SP）",
       "type": 3,
@@ -246,24 +237,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_kansj",
-      "name": "看视界（SP)",
-      "type": 3,
-      "api": "csp_KanSJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_sp93",
-      "name": "293（SP)",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_If101",
       "name": "101（SP墙)",
       "type": 3,
@@ -277,15 +250,6 @@
       "name": "泥巴（SP墙)",
       "type": 3,
       "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_xiaoh",
-      "name": "小宝（SP墙）",
-      "type": 3,
-      "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1011,5 +975,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;d768e856a80cc8b5632f5d7332833bd4"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;e2351ba2ef6d9a7cc06132d46f3118a7"
 }
