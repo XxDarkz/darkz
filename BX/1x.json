@@ -100,15 +100,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_nkdy",
-      "name": "南柯（SP）",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_zjdr",
       "name": "达人（SP）",
       "type": 3,
@@ -126,15 +117,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
-    },
-    {
-      "key": "csp_dy555",
-      "name": "555（SP）",
-      "type": 3,
-      "api": "csp_Dy555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_剧荒",
@@ -237,15 +219,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_sp293",
-      "name": "293（SP）",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Yj1211",
       "name": "直播合集（SP）",
       "type": 3,
@@ -282,10 +255,10 @@
       "filterable": 1
     },
     {
-      "key": "Yiso",
+      "key": "Yisou",
       "name": "易搜(云盘仅搜索)",
       "type": 3,
-      "api": "csp_Yiso",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1002,5 +975,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;8e630c1fb5e29e856ef17ea6a80cb646"
+  "spider": "https://xxdarkz.github.io/darkz/BX/x.jar;md5;e17519b8d7c38a71741e6a1d01029d10"
 }
