@@ -29,6 +29,39 @@
 {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
+{
+       "key": "金鹰资源",
+       "name": "金鹰资源(切)",
+       "type": 1,
+       "api": "https://jyzyapi.com/provide/vod/",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+     },
+     {
+       "key": "多多",
+       "name": "多多资源（采集有广告）",
+       "type": 1,
+       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "categories": [
+         "国产剧",
+         "日韩剧",
+         "港台剧",
+         "欧美剧",
+         "综艺",
+         "动漫",
+         "动作片",
+         "科幻片",
+         "战争片",
+         "喜剧片",
+         "爱情片",
+         "恐怖片",
+         "剧情片"
+       ]
+     },
 {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"}
   ],
 
